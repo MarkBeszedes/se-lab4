@@ -1,0 +1,3 @@
+GT4500,10,0,10,0
+LASER,SINGLE  # laser not implemented
+LASER,ALL  # laser not implemented
