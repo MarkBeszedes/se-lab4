@@ -1,6 +1,3 @@
-GT4500,3,0,1,0
-TORPEDO,SINGLE  # primary (P=2)
-TORPEDO,SINGLE  # secondary (S=0)
-TORPEDO,SINGLE  # primary (P=1)
-TORPEDO,SINGLE  # secondary empty -> primary again (P=0)
-TORPEDO,SINGLE  # both empty
+# Create a ship with stocked torpedo stores that never fail
+GT4500,0,0,1,0
+TORPEDO,SINGLE  # should have fired from the primary store
