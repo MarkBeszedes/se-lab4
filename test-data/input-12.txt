@@ -1,5 +1,4 @@
 # Create a ship with stocked torpedo stores that never fail
 GT4500,0,0,10,0
-TORPEDO,ALL # frie
-TORPEDO,ALL # frie
-TORPEDO,ALL # frie
+TORPEDO,LASER # frie
+LASER # frie
