@@ -1,0 +1,4 @@
+GT4500,10,0,0,0
+TORPEDO,SINGLE # frie prim 
+TORPEDO,SINGLE # frie prim again
+TORPEDO,SINGLE # frie peim again
