@@ -1,0 +1,4 @@
+SUCCESS  # GT4500
+SUCCESS  # fire primary
+SUCCESS  # fire primary - secondary empty
+SUCCESS  # fire primary - secondary empty

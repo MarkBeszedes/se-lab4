@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+Unknown firing mode: 'LASER' # <- LASER
+Unknown command: 'LASER' # <- LASER
